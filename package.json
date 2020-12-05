@@ -18,7 +18,7 @@
 	},
 	"license": "MIT",
 	"author": "Evelyn Hathaway <npm@evelyn.dev> (https://evelyn.dev)",
-	"sideEffects": true,
+	"sideEffects": false,
 	"main": "./lib/index.js",
 	"types": "./lib/index.d.ts",
 	"directories": {
@@ -60,7 +60,7 @@
 		"@types/jest": "^26.0.16",
 		"@types/react": "^17.0.0",
 		"@types/react-dom": "^17.0.0",
-		"@typescript-eslint/eslint-plugin": "^4.8.1",
+		"@typescript-eslint/eslint-plugin": "^4.9.0",
 		"@typescript-eslint/parser": "^4.9.0",
 		"commitlint": "^11.0.0",
 		"conventional-changelog-evelyn": "^1.2.1",
