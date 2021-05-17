@@ -1,6 +1,6 @@
 {
 	"name": "context-thief",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Helper function to steal React context values for testing",
 	"keywords": [
 		"react",
