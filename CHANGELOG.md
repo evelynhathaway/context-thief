@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.3
+
+**[`v1.0.2...v1.0.3`](https://github.com/evelynhathaway/context-thief/compare/v1.0.2...v1.0.3)** - **2021-05-17**
+
+### 📄 Documentation
+
+- **readme:** Update badges [`f56b927`](https://github.com/evelynhathaway/context-thief/commit/f56b927)
+
 ## v1.0.2
 
 **[`v1.0.1...v1.0.2`](https://github.com/evelynhathaway/context-thief/compare/v1.0.1...v1.0.2)** - **2021-05-17**
