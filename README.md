@@ -7,7 +7,7 @@
 **Helper function to steal React context values for testing**
 
 [![npm version](https://badgen.net/npm/v/context-thief?icon=npm)](https://www.npmjs.com/package/context-thief)
-[![check status](https://badgen.net/github/checks/evelynhathaway/loose-rgb/master?icon=github)](https://github.com/evelynhathaway/loose-rgb/actions)
+[![check status](https://badgen.net/github/checks/evelynhathaway/context-thief/main?icon=github)](https://github.com/evelynhathaway/context-thief/actions)
 [![license: MIT](https://badgen.net/badge/license/MIT/blue)](/LICENSE)
 
 </div>
