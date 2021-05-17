@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.4
+
+**[`v1.0.3...v1.0.4`](https://github.com/evelynhathaway/context-thief/compare/v1.0.3...v1.0.4)** - **2021-05-17**
+
+### 📦 Package
+
+- **npm:** Bump node-notifier from 8.0.0 to 8.0.2 [`78a0d3c`](https://github.com/evelynhathaway/context-thief/commit/78a0d3c)
+
 ## v1.0.3
 
 **[`v1.0.2...v1.0.3`](https://github.com/evelynhathaway/context-thief/compare/v1.0.2...v1.0.3)** - **2021-05-17**
