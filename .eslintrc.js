@@ -23,5 +23,13 @@ module.exports = {
 				"plugin:evelyn/typescript",
 			],
 		},
+		{
+			"files": [
+				"./*.js",
+			],
+			"rules": {
+				"unicorn/prefer-module": "off",
+			},
+		},
 	],
 };
