@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.5
+
+**[`v1.0.4...v1.0.5`](https://github.com/evelynhathaway/context-thief/compare/v1.0.4...v1.0.5)** - **2021-05-18**
+
+### 📦 Package
+
+- **npm:** Bump @typescript-eslint/eslint-plugin [`b9270ab`](https://github.com/evelynhathaway/context-thief/commit/b9270ab)
+- **npm:** Bump @typescript-eslint/parser from 4.23.0 to 4.24.0 [`3a44cec`](https://github.com/evelynhathaway/context-thief/commit/3a44cec)
+- **npm:** Bump conventional-changelog-evelyn from 1.2.2 to 1.2.3 [`77eaefb`](https://github.com/evelynhathaway/context-thief/commit/77eaefb)
+
 ## v1.0.4
 
 **[`v1.0.3...v1.0.4`](https://github.com/evelynhathaway/context-thief/compare/v1.0.3...v1.0.4)** - **2021-05-17**
