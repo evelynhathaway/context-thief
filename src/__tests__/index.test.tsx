@@ -6,7 +6,7 @@ import {createContextThief} from "..";
 const TestContext = React.createContext(false);
 
 const TestComponent: React.FC = ({children}) => {
-	return <TestContext.Provider value={true}>{children}</TestContext.Provider>;
+	return <TestContext.Provider value>{children}</TestContext.Provider>;
 };
 
 describe("when never rendered", () => {
