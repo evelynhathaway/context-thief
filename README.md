@@ -39,8 +39,10 @@ npm install --save-dev context-thief
 **`example-component.tsx`**
 
 ```tsx
+import React from "react";
+
 export const ExampleContext = React.createContext(false);
-export const ExampleComponent: React.FC = ({children}) => {
+export const ExampleComponent: React.FC<{children: React.ReactNode}> = ({children}) => {
     return (
         <TestContext.Provider value={true}>
             {children}
@@ -55,7 +57,7 @@ export const ExampleComponent: React.FC = ({children}) => {
 import React from "react";
 import {render} from "@testing-library/react";
 import {createContextThief} from "context-thief";
-import {ExampleContext, ExampleComponent} from "./example-component"
+import {ExampleContext, ExampleComponent} from "./example-component";
 
 it("should have the default current context value", () => {
     const {ContextThief, contextValue} = createContextThief(ExampleContext);

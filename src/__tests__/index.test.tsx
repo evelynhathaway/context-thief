@@ -5,7 +5,7 @@ import {createContextThief} from "..";
 
 const TestContext = React.createContext(false);
 
-const TestComponent: React.FC = ({children}) => {
+const TestComponent: React.FC<{children: React.ReactNode}> = ({children}) => {
 	return <TestContext.Provider value>{children}</TestContext.Provider>;
 };
 
